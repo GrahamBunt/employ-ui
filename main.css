@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+#logo {
+font-size: 21px;
+font-weight: 700;
+color: #805AD5;
+letter-spacing: 0.5px;
+}
+
+h2, h3 {
+    font-size:18px;
+}
+
+footer a {
+    color: red;
+}
+
+.card a {
+    color: purple;
+}
